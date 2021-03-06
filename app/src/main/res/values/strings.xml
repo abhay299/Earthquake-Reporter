@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quake Report</string>
+    <string name="places">San Francisco</string>
+    <string name="time">Feb 2, 2016</string>
+    <string name="near_the">Near the</string>
+</resources>
